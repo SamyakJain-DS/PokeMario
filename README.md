@@ -37,6 +37,3 @@ https://github.com/SamyakJain-DS/PythonGame/assets/142383509/3665a11c-5083-4c7a-
 
 - Python
 - PyGame Library
-
-## Folder
-Here is the link to the entire game folder.
