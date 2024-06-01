@@ -1,0 +1,26 @@
+Welcome! These are the instructions to enjoy the game:
+
+    You are pikachu, who landed in the mario-verse
+    by a glitch in the pokeball!
+
+    It's your goal to reach the pokecenters after
+    defeating all the other pokemons. But be
+    careful, some can't be defeated and they just
+    have to be avoided! Also, there are pits, so
+    watch your step!
+
+    You get 2 lives in total to make it through
+    the 2 stages.
+
+    To lend you a hand, Professor Oak has sent
+    special thunderstones which temporarily evolve
+    you into Raichu for 5 seconds, during which
+    you turn invinvible to all damage!
+
+Good Luck!
+
+Controls:
+
+    W - Jump
+    A,D - Left and Right
+    J - Attack
