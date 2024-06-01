@@ -14,24 +14,19 @@ This was originally our college final semester python project.
 
 ## The Game (Output)
 
+![instructions](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/279b2283-945d-4b68-bb1b-0f40df33bdd1)
 
-https://github.com/SamyakJain-DS/PythonGame/assets/142383509/72e84245-c764-4524-b7cc-6b34c973a89b
+![credits](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/9c3b50a9-d4c0-43f6-aa58-3e76b285ccda)
 
+https://github.com/SamyakJain-DS/PokeMario/assets/142383509/fb399c26-3554-45b4-bdb1-59cbe84ce510
 
-https://github.com/SamyakJain-DS/PythonGame/assets/142383509/31e8f1ac-0bc3-4217-b4a5-a7b3b037cdbf
+https://github.com/SamyakJain-DS/PokeMario/assets/142383509/e30d7969-a794-4699-ac99-9ee0bf9455d5
 
+https://github.com/SamyakJain-DS/PokeMario/assets/142383509/588c5f51-1642-41ce-a12a-02ce2f2a87e8
 
-https://github.com/SamyakJain-DS/PythonGame/assets/142383509/f8639f29-4184-4a98-86d5-83a81049d5dc
+https://github.com/SamyakJain-DS/PokeMario/assets/142383509/35caafbb-6594-4fbb-9d43-54775aa7fba0
 
-
-https://github.com/SamyakJain-DS/PythonGame/assets/142383509/3665a11c-5083-4c7a-b23d-70c8abf796e5
-
-
-![instructions](https://github.com/SamyakJain-DS/PythonGame/assets/142383509/0b8d4f27-419c-4f21-ac3c-0a142c9570a7)
-
-![credits](https://github.com/SamyakJain-DS/PythonGame/assets/142383509/1de19ed4-be44-4892-bcd4-4a556290be38)
-
-![lose screen](https://github.com/SamyakJain-DS/PythonGame/assets/142383509/88291ce1-ed49-47c4-ae17-dabdff795a0c)
+![lose screen](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/41bdaa62-e1d1-4584-9f65-b3099bc3af59)
 
 ### Tools Used
 
