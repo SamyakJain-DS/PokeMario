@@ -5,7 +5,7 @@
 To make a small 2D pokemon themed mario type platformer game using python, and its library PyGame.
 This was originally our college final semester python project.
 
-### Skills Learned
+### Skills Learnt
 
 - PyGame Library
 - Advanced Python Debugging
