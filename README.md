@@ -1,4 +1,4 @@
-# THE FIFTH PROJECT : 2D Platformer Game Using PyGame.
+#2D Platformer Game Using PyGame.
 
 ## Objective
 
