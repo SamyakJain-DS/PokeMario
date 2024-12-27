@@ -13,8 +13,10 @@ This was originally our college final semester python project.
 - Files and Folder Management
 
 ## The Game (Output)
+![home screen](https://github.com/user-attachments/assets/b9527f37-4e65-4016-8c05-7a45603e3f69)
 
 ![instructions](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/279b2283-945d-4b68-bb1b-0f40df33bdd1)
+
 
 ![credits](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/9c3b50a9-d4c0-43f6-aa58-3e76b285ccda)
 
